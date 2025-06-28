@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alejandrolozano/hand-wave-emoji/main/wave.gif" alt="Hi" width="50" />
-</p>
+# 🚀 Welcome to my GitHub
 
-# 👋 Welcome!
+I’m a **full stack web developer** with solid experience building web applications, now focusing on the world of **Artificial Intelligence**. I’m passionate about creating, learning, and exploring new technologies.
 
-I'm a full stack web developer currently exploring the world of Artificial Intelligence. I love building, learning, and experimenting with new technologies.
-
-- 💻 **Web Development**: solid full stack background  
-- 🤖 **AI**: shifting my focus toward artificial intelligence projects  
-- 🚀 Always learning
+- 💻 Web development background  
+- 🤖 Currently diving into AI  
+- 🌱 Always growing
 
 ---
 
