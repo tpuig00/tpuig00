@@ -4,4 +4,4 @@ I’m a **full stack web developer** with solid experience building web applicat
 
 ---
 
-> _Let’s build something amazing._
+> _Let’s build._
